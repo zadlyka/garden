@@ -1,0 +1,20 @@
+.bggreen {
+  background-color: #40a536;
+  color: white;
+}
+
+hr {
+  border-top: 1px solid green;
+}
+
+.card {
+  border-radius: 10px;
+}
+
+.form-control {
+  padding: 10px;
+}
+
+.icon {
+  color: #40a536;
+}
